@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE_DEL_COMPONENTE_FORMATIVO',
-    descripcionCurso: 'BREVE_DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Técnicas de ventas y comportamiento del consumidor',
+    descripcionCurso:
+      'Este componente formativo se centra en la capacitación de los aprendices en técnicas avanzadas de cierre de ventas, análisis del comportamiento del consumidor, y el desarrollo de políticas de servicio que optimicen la relación con el cliente, asegurando su fidelización y el cumplimiento de los objetivos estratégicos de la empresa.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -12,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
@@ -31,13 +36,39 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Técnicas de cierre de ventas',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo_de_segundo_nivel',
+            titulo: 'Técnica de cierre de ventas AIDA',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo: 'Técnica de cierre de ventas SPIN',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Otras técnicas de cierre de ventas',
+            hash: 't_1_3',
+          },
+          {
+            numero: '1.4',
+            titulo: '<em>Customer Relationship Management</em> (CRM)',
+            hash: 't_1_4',
+          },
+          {
+            numero: '1.5',
+            titulo:
+              'Técnica de planteamiento psicocibernético o de simulación cerebral',
+            hash: 't_1_5',
+          },
+          {
+            numero: '1.6',
+            titulo: 'Garantía y servicio posventa',
+            hash: 't_1_6',
           },
         ],
       },
@@ -45,14 +76,26 @@ export default {
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Política de servicio',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Comportamiento del consumidor',
         desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Características del cliente',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Técnicas de análisis de comportamiento del consumidor',
+            hash: 't_3_2',
+          },
+        ],
       },
     ],
     subMenu: [
@@ -102,28 +145,90 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema_complementario',
-      referencia: 'Referencia_complementario',
-      tipo: 'Tipo_complementario',
-      link: 'Link_complementario',
+      tema: '1.1.	Definición del perfil del cliente',
+      referencia:
+        'TEDx Talks (2022). Entendiendo al cliente. User Experience y Psicología | Blanca B. | TEDxUC3MLive. https://www.youtube.com/watch?v=WYbh60FijSM ',
+      tipo: 'TVideo en línea',
+      link: 'https://www.youtube.com/watch?v=WYbh60FijSM',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '3.2. Personalización de la oferta comercial',
+      referencia:
+        'TEDx Talks (2018). Neuromarketing: somos lo que nos emociona | David Juárez Varón | TEDxAlcoi . https://www.youtube.com/watch?v=tIAQtN8xer0 ',
+      tipo: 'Video en línea',
+      link: 'https://www.youtube.com/watch?v=WYbh60FijSM',
     },
   ],
   glosario: [
     {
-      termino: 'Termino_glosario',
-      significado: 'Significado_glosario',
+      termino: 'Análisis de comportamiento',
+      significado:
+        'estudio de las interacciones y preferencias de los usuarios en plataformas digitales para identificar patrones de comportamiento y segmentar a los clientes de manera más precisa.',
+    },
+    {
+      termino: 'Análisis de mercado',
+      significado:
+        'evaluación detallada de la competencia, identificación de oportunidades de mercado y comprensión de las tendencias del sector para tomar decisiones informadas.',
+    },
+    {
+      termino: 'Ciclo de Vida del Producto (CVP)',
+      significado:
+        'etapas por las que pasa un producto desde su introducción en el mercado hasta su declive, cada una requiriendo estrategias específicas de marketing, producción y gestión.',
+    },
+    {
+      termino: 'Cliente Ideal (Buyer Persona)',
+      significado:
+        'representación semi-ficticia del cliente que mejor se ajusta a los productos o servicios ofrecidos por una empresa, basada en datos demográficos, psicográficos y comportamentales.',
+    },
+    {
+      termino: 'Datos demográficos',
+      significado:
+        'información cuantificable sobre la población, como edad, género, nivel educativo, ocupación y estado civil, utilizada para segmentar el mercado y comprender las características básicas de los clientes.',
+    },
+    {
+      termino: 'Datos psicográficos',
+      significado:
+        'información sobre los intereses, valores, estilos de vida, actitudes y personalidad de los clientes, utilizada para una segmentación más profunda y detallada.',
+    },
+    {
+      termino: 'Estrategias de fidelización',
+      significado:
+        'técnicas y acciones dirigidas a mantener a los clientes actuales comprometidos y satisfechos, incentivando su lealtad a largo plazo mediante programas de recompensas y personalización de la oferta.',
+    },
+    {
+      termino: 'Personalización',
+      significado:
+        'adaptación de productos, servicios y campañas de marketing para satisfacer las necesidades y preferencias individuales de los clientes, mejorando la experiencia del cliente y aumentando la lealtad.',
+    },
+    {
+      termino: 'Protección de datos personales',
+      significado:
+        'medidas legales y técnicas para garantizar la privacidad y seguridad de la información personal recopilada por las empresas, evitando el uso indebido y el acceso no autorizado.',
+    },
+    {
+      termino: 'Segmentación de mercados',
+      significado:
+        'proceso de dividir un mercado heterogéneo en grupos más pequeños y homogéneos que comparten características similares, permitiendo a las empresas adaptar sus estrategias de marketing y ventas.',
     },
   ],
   referencias: [
     {
-      referencia: 'Nombre_referencias',
-      link: 'Link_referencias',
+      referencia:
+        'Cooper, R. G. (2017). Winning at New Products: Creating Value Through Innovation (5th ed.). Basic Books.',
+    },
+    {
+      referencia:
+        'Harvard Business Review (2024). 3 Ways to Clearly Communicate Your Company’s Strategy.',
+      link:
+        'https://hbr.org/2024/05/3-ways-to-clearly-communicate-your-companys-strategy',
+    },
+    {
+      referencia:
+        'Kotler, P., & Keller, K. L. (2019). Marketing Management (15th ed.). Pearson.',
+    },
+    {
+      referencia:
+        'Revella, A. (2020). Buyer Personas: How to Gain Insight into your Customers Expectations, Align your Marketing Strategies, and Win More Business. Wiley',
     },
   ],
   creditos: [
@@ -131,7 +236,7 @@ export default {
       titulo: 'ECOSISTEMA DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Claudia Patricia Aristizábal Gutiérrez',
+          nombre: 'Milady Tatiana Villamil Castellanos',
           cargo: 'Responsable del equipo',
           centro: 'Dirección General',
         },
@@ -146,28 +251,56 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Nombre_rol',
-          centro: 'Nombre_centro_formación',
+          nombre: 'Ingrid Criollo García',
+          cargo: 'Experta temática',
+          centro:
+            'Regional Distrito Capital. Centro de Gestión de Mercados, Logística y Tecnologías de la Información.',
+        },
+        {
+          nombre: 'Rosa Elvia Quintero Guasca',
+          cargo: 'Asesora pedagógica',
+          centro:
+            'Regional Santander. Centro Industrial de Mantenimiento Integral- CIMI.',
+        },
+        {
+          nombre: 'Luis Orlando Beltrán Vargas',
+          cargo: 'Asesor pedagógico',
+          centro:
+            'Regional Santander. Centro Industrial de Mantenimiento Integral- CIMI.',
+        },
+        {
+          nombre: 'Luis Fernando Botero Mendoza',
+          cargo: 'Evaluador instruccional',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
     {
-      titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
+      titulo: 'DISEÑADOR Y DESARROLLADOR DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Nombre_responsable',
+          nombre: 'Oscar Ivan Uribe Ortiz',
           cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Diego Fernando Velasco Güiza',
-          cargo: 'Desarrollador Fullstack',
+          nombre: 'José Jaime Luis Tang Pinzón',
+          cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Animación y producción audiovisual',
+          nombre: 'Francisco José Vásquez Suárez',
+          cargo: 'Desarrollador full stack',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Gilberto Junior Rodríguez Rodríguez',
+          cargo: 'Animador y productor audiovisual',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Ernesto Navarro Jaimes',
+          cargo: 'Animador y productor audiovisual',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
@@ -176,18 +309,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Evaluación de contenidos inclusivos y accesibles',
+          nombre: 'Jorge Eduardo Rueda Peña',
+          cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Nombre_responsable',
-          cargo: 'Validación de recursos educativos digitales',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
-        },
-        {
-          nombre: 'Nombre_responsable',
-          cargo: 'Validación de recursos educativos digitales',
+          nombre: 'Javier Mauricio Oviedo',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],

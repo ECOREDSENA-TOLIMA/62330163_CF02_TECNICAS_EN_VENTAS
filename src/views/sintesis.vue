@@ -3,7 +3,7 @@
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
 
-    p.mb-5(data-aos="fade-right") A_continuación_se_muestra_un_mapa_conceptual
+    p.mb-5(data-aos="fade-right") Las técnicas de ventas son la relación directa entre el equipo comercial de una empresa o un vendedor y sus prospectos de clientes como se evidencia en la siguiente imagen que presenta la importancia de dichas técnicas desde sus estrategias como lo son AIDA, SPIN y CRM pasando por las políticas de servicio para así entender el comportamiento del consumidor buscando entenderlo según su caracterización. 
 
     .row.justify-content-center
       .col-lg-10.mb-5(data-aos="fade-right")
