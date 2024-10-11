@@ -173,10 +173,10 @@ export default {
     {
       termino: 'Ciclo de Vida del Producto (CVP)',
       significado:
-        'etapas por las que pasa un producto desde su introducción en el mercado hasta su declive, cada una requiriendo estrategias específicas de marketing, producción y gestión.',
+        'etapas por las que pasa un producto desde su introducción en el mercado hasta su declive, cada una requiriendo estrategias específicas de <em>marketing</em>, producción y gestión.',
     },
     {
-      termino: 'Cliente Ideal (Buyer Persona)',
+      termino: 'Cliente Ideal <em>(Buyer Persona)</em>',
       significado:
         'representación semi-ficticia del cliente que mejor se ajusta a los productos o servicios ofrecidos por una empresa, basada en datos demográficos, psicográficos y comportamentales.',
     },
@@ -208,7 +208,7 @@ export default {
     {
       termino: 'Segmentación de mercados',
       significado:
-        'proceso de dividir un mercado heterogéneo en grupos más pequeños y homogéneos que comparten características similares, permitiendo a las empresas adaptar sus estrategias de marketing y ventas.',
+        'proceso de dividir un mercado heterogéneo en grupos más pequeños y homogéneos que comparten características similares, permitiendo a las empresas adaptar sus estrategias de <em>marketing</em> y ventas.',
     },
   ],
   referencias: [

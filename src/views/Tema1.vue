@@ -113,7 +113,7 @@
           
           p.text-small(numero="3" titulo="Deseo") El vendedor observa que el cliente se interesa por el pastel de chocolate y añade: <br><br> “Este pastel no solo tiene un sabor increíble, sino que también viene decorado de forma personalizada sin costo adicional. Además, si lo compra hoy, le ofrecemos un descuento del 10% en su próxima compra.” <br><br> #[i (El vendedor crea deseo al resaltar el valor añadido y un incentivo adicional para futuras compras.)]
           
-          p.text-small(numero="4" titulo="Acción") finalmente, el vendedor pregunta: <br><br> “¿Le gustaría llevarse este pastel para su celebración? Estoy seguro de que impresionará a todos sus invitados.” <br><br> #[i (El vendedor incita al cliente a tomar la acción de compra, cerrando la venta de manera natural.)]
+          p.text-small(numero="4" titulo="Acción") Finalmente, el vendedor pregunta: <br><br> “¿Le gustaría llevarse este pastel para su celebración? Estoy seguro de que impresionará a todos sus invitados.” <br><br> #[i (El vendedor incita al cliente a tomar la acción de compra, cerrando la venta de manera natural.)]
 
     Separador
 
@@ -328,14 +328,16 @@
 
     .fondo2-t2.mb-5.px-md-5.px-4
       .row.justify-content-center.align-items-center
-        p.mb-5(data-aos="fade-right") En la actualidad, las empresas enfrentan la necesidad de implementar técnicas avanzadas para mantener una relación constante y efectiva con sus clientes. El desarrollo de software especializado en la gestión de relaciones con los clientes, conocido como #[i(style="color: #12263F !important") Customer Relationship Management] (CRM), facilita esta interdependencia a través de redes informáticas. Mientras que anteriormente el proceso de ventas solía finalizar con el cierre de la negociación, la globalización de los mercados ha transformado esta dinámica. Hoy en día, el servicio posventa se ha convertido en un elemento crucial para la fidelización del cliente.
-        .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
+        p.mb-5(data-aos="fade-right") En la actualidad, las empresas enfrentan la necesidad de implementar técnicas avanzadas para mantener una relación constante y efectiva con sus clientes. El desarrollo de #[i software] especializado en la gestión de relaciones con los clientes, conocido como #[i(style="color: #12263F !important") Customer Relationship Management] (CRM), facilita esta interdependencia a través de redes informáticas. Mientras que anteriormente el proceso de ventas solía finalizar con el cierre de la negociación, la globalización de los mercados ha transformado esta dinámica. Hoy en día, el servicio posventa se ha convertido en un elemento crucial para la fidelización del cliente.
+        .col-lg-4.col-12.mb-3.d-lg-flex.d-none(data-aos="fade-left")
+          figure
+            img(src='@/assets/curso/temas/tema1/img-09.svg', alt='Imagen decorativa')
+
+        .col-lg-6.col-12.mb-3(data-aos="fade-right")
           p El #[i(style="color: #12263F !important") Customer Relationship Management] (CRM) se define como la gestión de las relaciones con los clientes. Este enfoque constituye un modelo para la realización de negocios que prioriza la interacción continua con el cliente, con el objetivo de lograr su lealtad a largo plazo. Es importante destacar que, para una empresa, el CRM no solo se aplica a los clientes, sino también a los proveedores, quienes son parte integral de la cadena de valor.
           p El CRM resulta útil debido a su capacidad para centralizar y gestionar la información de los clientes, lo que permite optimizar tareas, segmentar mercados y desarrollar estrategias personalizadas. Estas acciones dependen de las características de los clientes y del tipo de productos o servicios ofrecidos.
           p Implementar un sistema CRM en una organización proporciona múltiples ventajas, tales como:
-        .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
-          figure
-            img(src='@/assets/curso/temas/tema1/img-09.svg', alt='Imagen decorativa')
+        
         
     PasosA.color-acento-contenido.mb-5.px-md-5.px-4(tipo="n")
       .row.justify-content-center.align-items-center
@@ -352,7 +354,7 @@
 
         .col-lg-6(data-aos="fade-left")
           h3 Mayor efectividad en campañas
-          p.mb-0 Las campañas de marketing son más efectivas porque están dirigidas directamente al público objetivo, aumentando la tasa de conversión.
+          p.mb-0 Las campañas de #[i marketing] son más efectivas porque están dirigidas directamente al público objetivo, aumentando la tasa de conversión.
       
       .row.justify-content-center.align-items-center(data-aos="fade-right")
         .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
@@ -384,7 +386,7 @@
       li 
         .lista-ol--cuadro__vineta
           span a
-        p.mb-0 #[b CRM operacional:] apoya las diferentes áreas de la organización, facilitando la automatización de procesos como ventas, marketing y servicio al cliente.
+        p.mb-0 #[b CRM operacional:] apoya las diferentes áreas de la organización, facilitando la automatización de procesos como ventas, #[i marketing] y servicio al cliente.
 
       li 
         .lista-ol--cuadro__vineta
@@ -493,7 +495,7 @@
           img(src='@/assets/curso/temas/tema1/img-015.svg', alt='Imagen decorativa')
       .col-lg-7.col-12.mb-3
         LineaTiempoD.color-secundario.linea-tiempo-edit.mb-4(data-aos="zoom-in-down")
-          p.text-small(numero="1" titulo="Software especializado") El CRM debe contar con un software que consolide toda la información de los clientes en una base de datos completa, permitiendo un análisis exhaustivo de la información.
+          p.text-small(numero="1" titulo="<em>Software</em> especializado") El CRM debe contar con un #[i software] que consolide toda la información de los clientes en una base de datos completa, permitiendo un análisis exhaustivo de la información.
 
           p.text-small(numero="2" titulo="Personalización") El #[i software] debe permitir la personalización de los procesos, integrando otras aplicaciones que hagan el sistema más dinámico y adaptable a las necesidades del negocio.
 
@@ -501,7 +503,7 @@
 
           p.text-small(numero="4" titulo="Generación de reportes") El CRM debe ser capaz de generar reportes que integren diversa información, ayudando a la toma de decisiones estratégicas.
 
-          p.text-small(numero="5" titulo="Accesibilidad") El software debe ser accesible tanto para los clientes como para los colaboradores de la empresa, y debe ser compatible con dispositivos móviles y de escritorio para garantizar su uso en cualquier lugar y momento. 
+          p.text-small(numero="5" titulo="Accesibilidad") El #[i software] debe ser accesible tanto para los clientes como para los colaboradores de la empresa, y debe ser compatible con dispositivos móviles y de escritorio para garantizar su uso en cualquier lugar y momento. 
 
     Separador
 
@@ -669,7 +671,7 @@
       //- estas clases tambien tienen un modificador --borde
       .col-md.tarjeta.color-primario1.p-5(style="background-color: #FFF37A")
         .row.justify-content-center.mb-4
-          .col-3
+          .col-lg-3.col-6
             figure
               img(src='@/assets/curso/temas/tema1/icono-022.svg', alt='Texto que describa la imagen')
           
@@ -681,7 +683,7 @@
       //- estas clases tambien tienen un modificador --borde
       .col-md.tarjeta.color-acento-botones.p-5(style="background-color: #FFC890")
         .row.justify-content-center.mb-4
-          .col-3
+          .col-lg-3.col-6
             figure
               img(src='@/assets/curso/temas/tema1/icono-023.svg', alt='Texto que describa la imagen')
           
@@ -810,7 +812,9 @@
           p.text-small(numero="6" titulo="Valor agregado") Ofrecer servicios adicionales como asesoría y mantenimiento para mejorar la experiencia del cliente.
           
           p.text-small(numero="7" titulo="Oportunidad de respuesta") Resolver las inconformidades del cliente en el menor tiempo posible para asegurar su satisfacción. 
-    
+
+    p.mb-5 Para mantener un contexto se presenta el siguiente ejemplo de garantía y servicio posventa para una empresa de juguetes infantiles elaborados con materiales reciclables, preste atención al detalle del ejemplo
+
     h3.mb-5
       span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[i(style="color: #FFFF !important").fas.fa-tag] Escenario
 
@@ -841,7 +845,7 @@
         figure
           img(src='@/assets/curso/temas/tema1/img-034.svg', alt='Imagen decorativa')
     
-    .back-pink.px-4.px-md-5.pt-4
+    .back-pink.p-md-5.p-4
       .row.justify-content-center.align-items-center
         .col-lg-5.col-10.mb-3(data-aos="fade-right")
           img(src='@/assets/curso/temas/tema1/img-035.svg', alt='')

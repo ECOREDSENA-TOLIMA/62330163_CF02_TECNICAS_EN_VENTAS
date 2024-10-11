@@ -51,9 +51,9 @@
         h2.text-center 3. Después de la compra
         p Después de adquirir el producto o servicio, el consumidor evalúa si la compra cumplió con sus expectativas. Esta etapa es crucial para determinar la satisfacción del cliente, que influye directamente en su comportamiento futuro, como la lealtad hacia la marca o la probabilidad de realizar compras adicionales. 
 
-    .fondo2-t2.mb-5.px-md-5.px-4
+    .fondo2-t2.mb-4.p-md-5.p-4
       .row.justify-content-center.align-items-center
-        p.mb-5(data-aos="fade-right") El análisis del comportamiento del consumidor presenta varios desafíos que dificultan la identificación precisa de factores como la frecuencia de compra, las condiciones bajo las cuales se realiza, y las necesidades específicas que motivan la compra. Entre las principales dificultades se encuentran:<
+        p.mb-5(data-aos="fade-right") El análisis del comportamiento del consumidor presenta varios desafíos que dificultan la identificación precisa de factores como la frecuencia de compra, las condiciones bajo las cuales se realiza, y las necesidades específicas que motivan la compra. Entre las principales dificultades se encuentran:
         .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
           p #[b Falta de conciencia sobre el motivo de compra:] muchas veces, los consumidores no son plenamente conscientes de por qué compran ciertos productos. Sus decisiones pueden estar influenciadas por factores subconscientes o impulsivos.
           p #[b Falta de sinceridad en las respuestas:] los consumidores pueden no ser completamente honestos cuando se les pregunta sobre las razones detrás de sus decisiones de compra, ya sea por falta de introspección o porque desean dar respuestas socialmente aceptables.
@@ -123,12 +123,12 @@
     .titulo-segundo.color-acento-contenido
       h2#t_3_1 3.1. Características del cliente
 
-    p.mb-5 El comportamiento del cliente está influenciado por una variedad de características personales y demográficas que determinan sus decisiones de compra. Entender estas características permite a las empresas desarrollar estrategias de marketing más efectivas y adaptadas a las necesidades y preferencias de diferentes segmentos de consumidores.
+    p.mb-5 El comportamiento del cliente está influenciado por una variedad de características personales y demográficas que determinan sus decisiones de compra. Entender estas características permite a las empresas desarrollar estrategias de #[i marketing] más efectivas y adaptadas a las necesidades y preferencias de diferentes segmentos de consumidores.
 
     AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta tarjeta--azul" data-aos="fade-left")
       .row(titulo="Sexo")
         .col-lg-12.mb-4.mb-md-0
-          p El comportamiento del consumidor varía significativamente según el género, ya que hay productos y servicios que generan interés exclusivo en un género específico. Las empresas deben reconocer estas diferencias y adaptar sus estrategias de marketing y ventas para atraer a hombres y mujeres de manera efectiva, ofreciendo productos que resuenen con las preferencias y necesidades de cada género.
+          p El comportamiento del consumidor varía significativamente según el género, ya que hay productos y servicios que generan interés exclusivo en un género específico. Las empresas deben reconocer estas diferencias y adaptar sus estrategias de #[i marketing] y ventas para atraer a hombres y mujeres de manera efectiva, ofreciendo productos que resuenen con las preferencias y necesidades de cada género.
 
         figure
           img(src='@/assets/curso/temas/tema3/img-03.png', alt='Texto que describa la imagen')
@@ -150,13 +150,13 @@
       .col-lg-7.mb-3(data-aos="fade-left")
         h3.mb-5
           span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[i(style="color: #FFFF !important").fas.fa-tag] Estrategias transgeneracionales
-        p.mb-5 Dado que los consumidores de diferentes edades tienen distintas necesidades, las estrategias de marketing deben ser inclusivas y estar diseñadas para atraer a todos los miembros de la familia. Estas estrategias, conocidas como #[b Transgeneracionales,] deben utilizar mensajes simples y accesibles, evitando la complejidad, y apoyarse en medios impresos y temáticas que resuenen con todos los segmentos de edad.
+        p.mb-5 Dado que los consumidores de diferentes edades tienen distintas necesidades, las estrategias de #[i marketing] deben ser inclusivas y estar diseñadas para atraer a todos los miembros de la familia. Estas estrategias, conocidas como #[b Transgeneracionales,] deben utilizar mensajes simples y accesibles, evitando la complejidad, y apoyarse en medios impresos y temáticas que resuenen con todos los segmentos de edad.
         
         h3.mb-5
           span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[i(style="color: #FFFF !important").fas.fa-tag] Nacionalidad
         p La nacionalidad y la cultura asociada juegan un papel crucial en el comportamiento del consumidor. Las preferencias y necesidades varían según el contexto cultural, lo que significa que el mismo producto puede ser percibido de manera diferente en distintos países o regiones. Por ejemplo, la compra de ropa se ve afectada por la presencia o ausencia de estaciones climáticas en un país, lo que influye en la demanda de ciertos tipos de vestimenta.
 
-    .back-pink.mb-5.px-md-5.px-4
+    .back-pink.p-md-5.p-4
       .row.justify-content-center.align-items-center
         .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
           h3.mb-5
