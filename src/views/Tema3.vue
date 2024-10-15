@@ -156,7 +156,7 @@
           span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[i(style="color: #FFFF !important").fas.fa-tag] Nacionalidad
         p La nacionalidad y la cultura asociada juegan un papel crucial en el comportamiento del consumidor. Las preferencias y necesidades varían según el contexto cultural, lo que significa que el mismo producto puede ser percibido de manera diferente en distintos países o regiones. Por ejemplo, la compra de ropa se ve afectada por la presencia o ausencia de estaciones climáticas en un país, lo que influye en la demanda de ciertos tipos de vestimenta.
 
-    .back-pink.p-md-5.p-4
+    .back-pink.mb-4.p-md-5.p-4
       .row.justify-content-center.align-items-center
         .col-lg-7.order-lg-1.order-2(data-aos="fade-right")
           h3.mb-5

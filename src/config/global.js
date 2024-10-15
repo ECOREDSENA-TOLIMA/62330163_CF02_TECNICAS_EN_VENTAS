@@ -156,7 +156,7 @@ export default {
       referencia:
         'TEDx Talks (2018). Neuromarketing: somos lo que nos emociona | David Juárez Varón | TEDxAlcoi . https://www.youtube.com/watch?v=tIAQtN8xer0 ',
       tipo: 'Video en línea',
-      link: 'https://www.youtube.com/watch?v=WYbh60FijSM',
+      link: 'https://www.youtube.com/watch?v=tIAQtN8xer0',
     },
   ],
   glosario: [

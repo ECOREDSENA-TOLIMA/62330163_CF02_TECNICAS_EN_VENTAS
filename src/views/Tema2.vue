@@ -19,7 +19,10 @@
 
 
     .row.justify-content-center.align-items-center.mb-0
-      .col-lg-4.col-12.mb-3.d-lg-flex.d-none
+      .col-12.col-md-10.col-lg-10.d-lg-flex.d-none(data-aos="fade-up")
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 <b>Figura 1. </b> <i>Factores clave de la política de servicio</i>
+      .col-lg-4.col-12.mb-3.d-lg-flex.d-none(data-aos="fade-up")
         figure.mb-5
           img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema2/img-02-01.svg', alt='En la imagen se comparte un proceso de seis pasos en orden y son los siguientes: primero, asegure su plan de negocios; segundo, asegure sus fuentes de prospección; tercero, verifique el potencial del prospecto; cuarto, envíe su carta de presentación; quinto, haga su seguimiento; y por sexto y último, solicite una cita.')
           img.d-block.d-lg-none(src='@/assets/curso/temas/tema2/img-02-02.svg', alt='En la imagen se comparte un proceso de seis pasos en orden y son los siguientes: primero, asegure su plan de negocios; segundo, asegure sus fuentes de prospección; tercero, verifique el potencial del prospecto; cuarto, envíe su carta de presentación; quinto, haga su seguimiento; y por sexto y último, solicite una cita.') 
