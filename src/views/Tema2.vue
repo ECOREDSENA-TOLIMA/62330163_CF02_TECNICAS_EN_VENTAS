@@ -41,7 +41,7 @@
     p.mb-5 La elaboración de políticas de servicio debe considerar los siguientes aspectos esenciales:
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade-down")
-      .col-lg-3.col-sm-6.col-8.mb-4
+      .col-lx-3.col-sm-6.col-8.mb-4
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/tema2/img-03.png' alt="Muestra semillas nativas")
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
@@ -49,7 +49,7 @@
             .p-4.text-center
               p.text-center.mb-0 Conocer en profundidad las expectativas y necesidades del cliente para ofrecer respuestas adecuadas y personalizadas.
 
-      .col-lg-3.col-sm-6.col-8.mb-4
+      .col-lx-3.col-sm-6.col-8.mb-4
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/tema2/img-04.png' alt="Muestra semillas mejoradas")
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
@@ -57,7 +57,7 @@
             .p-4.text-center
               p.text-center.mb-0 Evaluar constantemente las expectativas del cliente y ajustar el servicio para alcanzar niveles de satisfacción óptimos.
 
-      .col-lg-3.col-sm-6.col-8.mb-4
+      .col-lx-3.col-sm-6.col-8.mb-4
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/tema2/img-05.png' alt="Muestra semillas híbridas ")
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
@@ -65,7 +65,7 @@
             .p-4.text-center
               p.text-center.mb-0 Analizar la relación entre los clientes y la competencia para mejorar los procedimientos de atención y superar las expectativas del cliente en comparación con otras empresas.
 
-      .col-lg-3.col-sm-6.col-8.mb-4
+      .col-lx-3.col-sm-6.col-8.mb-4
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/tema2/img-06.png' alt="Muestra semillas híbridas ")
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3

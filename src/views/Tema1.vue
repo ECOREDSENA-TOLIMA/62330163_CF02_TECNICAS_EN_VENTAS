@@ -123,7 +123,7 @@
     p.mb-5 La técnica SPIN, que significa Situación, Problema, Implicación y Necesidad, fue desarrollada en la década de los 90 y se basa en un enfoque de preguntas estratégicas para identificar las necesidades del cliente y ofrecer soluciones adecuadas.
 
     .row.align-items-center.justify-content-center.mb-5(data-aos="fade-down")
-      .col-lg-3.col-sm-6.col-8.mb-4
+      .col-lx-3.col-sm-6.col-8.mb-4
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/tema1/img-05.png' alt="Muestra semillas nativas")
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
@@ -131,7 +131,7 @@
             .p-4.text-center
               p.text-center.mb-0 Consiste en investigar y recopilar información sobre el cliente para comprender mejor sus necesidades y contexto. En caso de dudas, el vendedor debe hacer preguntas que guíen al cliente hacia respuestas reveladoras.
 
-      .col-lg-3.col-sm-6.col-8.mb-4
+      .col-lx-3.col-sm-6.col-8.mb-4
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/tema1/img-06.png' alt="Muestra semillas mejoradas")
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
@@ -139,7 +139,7 @@
             .p-4.text-center
               p.text-center.mb-0 Identificar los problemas o desafíos que enfrenta el cliente es crucial. El vendedor debe formular preguntas dirigidas a descubrir los posibles problemas, comenzando preferiblemente con preguntas cerradas para obtener respuestas claras y concretas.
 
-      .col-lg-3.col-sm-6.col-8.mb-4
+      .col-lx-3.col-sm-6.col-8.mb-4
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/tema1/img-07.png' alt="Muestra semillas híbridas ")
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
@@ -147,7 +147,7 @@
             .p-4.text-center
               p.text-center.mb-0 En esta etapa, el vendedor debe evaluar la gravedad y la relevancia de los problemas identificados, enfocándose en la importancia de resolverlos. Aquí, el objetivo es hacer que el cliente vea la necesidad urgente de encontrar una solución.
 
-      .col-lg-3.col-sm-6.col-8.mb-4
+      .col-lx-3.col-sm-6.col-8.mb-4
         .tarjeta.tarjeta-foto-hover
           .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/tema1/img-08.png' alt="Muestra semillas híbridas ")
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
