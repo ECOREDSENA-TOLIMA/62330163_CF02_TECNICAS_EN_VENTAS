@@ -26,9 +26,12 @@
         h3.mb-5
           span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[i.fas.fa-tag] Mapa Conceptual:
 
+        .titulo-sexto.color-acento-contenido
+          p.titulo.pb-0.mb-0 <b>Figura 1. </b> <i>Mapa conceptual cierre de la negociación</i>
+
         figure.mb-5
-          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/introduccion/img-02-01.svg', alt='La imagen comparte un mapa de conceptos relacionados al cierre de la negociación en cuatro conceptos, el primero es el de técnicas de cierre de ventas, seguido por la relación con los clientes a partir de una red, en seguida está el apoyo que las técnicas pueden dar y se cierra con el concepto de la garantía y el servicio postventa como aliado fundamental en la fidelización.')
-          img.d-block.d-lg-none(src='@/assets/curso/temas/introduccion/img-02-02.svg', alt='La imagen comparte un mapa de conceptos relacionados al cierre de la negociación en cuatro conceptos, el primero es el de técnicas de cierre de ventas, seguido por la relación con los clientes a partir de una red, en seguida está el apoyo que las técnicas pueden dar y se cierra con el concepto de la garantía y el servicio postventa como aliado fundamental en la fidelización.') 
+          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/introduccion/img-02-01.svg', alt='La figura presenta el cierre de la negociación y explica en 4 pasos como se recomienda hacer: 1. Técnicas de cierre de ventas 2. La relación de los clientes a través de la red 3. El apoyo de la técnica psico cibernética 4. La garantía y el servicio posventa')
+          img.d-block.d-lg-none(src='@/assets/curso/temas/introduccion/img-02-02.svg', alt='La figura presenta el cierre de la negociación y explica en 4 pasos como se recomienda hacer: 1. Técnicas de cierre de ventas 2. La relación de los clientes a través de la red 3. El apoyo de la técnica psico cibernética 4. La garantía y el servicio posventa') 
 
     figure.mb-5(data-aos="zoom-in")
       .video

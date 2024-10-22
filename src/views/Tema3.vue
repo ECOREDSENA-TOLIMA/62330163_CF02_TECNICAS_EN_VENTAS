@@ -36,7 +36,7 @@
             figure
               img(src='@/assets/curso/temas/tema3/icono-02.svg', alt='Texto que describa la imagen')
           
-        h2.text-center 2. Durante la compray
+        h2.text-center 2. Durante la compra
         p Aquí, el consumidor toma la decisión final de compra, influenciado por la experiencia de compra en sí, la interacción con el vendedor, la disponibilidad del producto, el precio, y otros factores inmediatos. Este es un momento decisivo, donde la percepción de valor y la respuesta emocional pueden inclinar la balanza hacia la compra o hacia la búsqueda de otras opciones.
 
       //- .tarjeta debe ir acompañado de una de una de estas clases => 

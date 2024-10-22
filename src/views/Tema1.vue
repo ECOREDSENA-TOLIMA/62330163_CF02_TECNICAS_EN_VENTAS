@@ -722,17 +722,13 @@
               i.fas.fa-check(style="color: #AC0606")
               p.mb-0 #[b Evaluación de productos y procesos:] permite analizar la efectividad de los productos y la eficiencia de los procesos internos.
             
-            li(data-aos="fade-down")
-              i.fas.fa-check(style="color: #AC0606")
-              p.mb-0 #[b Utilización de Internet:] las redes sociales y sitios web especializados son clave para el mercadeo.
-            
         .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
           figure
             img(src='@/assets/curso/temas/tema1/img-031.svg', alt='Imagen decorativa')
 
 
     h3.mb-5
-      span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[i(style="color: #FFFF !important").fas.fa-tag] Servicio posventa
+      span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[i(style="color: #FFFF !important").fas.fa-tag] Tipos de servicio posventa
 
     p.mb-5 El servicio posventa puede clasificarse en diferentes categorías, según su naturaleza:
 
