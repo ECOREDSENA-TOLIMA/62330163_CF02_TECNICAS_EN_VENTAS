@@ -24,8 +24,8 @@
           p.titulo.pb-0.mb-0 <b>Figura 2. </b> <i>Factores clave de la política de servicio</i>
       .col-lg-4.col-12.mb-3.d-lg-flex.d-none(data-aos="fade-up")
         figure.mb-5
-          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema2/img-02-01.svg', alt='La figura presenta los 3 factores clave de la política de servicios que son: Integridad Cliente Honorabilidad')
-          img.d-block.d-lg-none(src='@/assets/curso/temas/tema2/img-02-02.svg', alt='La figura presenta los 3 factores clave de la política de servicios que son: Integridad Cliente Honorabilidad') 
+          img.d-none.d-sm-none.d-lg-block(src='@/assets/curso/temas/tema2/img-02-01.svg', alt='La figura presenta los 3 factores clave de la política de servicios que son: Integridad, Cliente, Honorabilidad')
+          img.d-block.d-lg-none(src='@/assets/curso/temas/tema2/img-02-02.svg', alt='La figura presenta los 3 factores clave de la política de servicios que son: Integridad, Cliente, Honorabilidad') 
       
       .col-lg-6.col-12.mb-3
         p.mb-4 Toda política de servicio debe incluir los siguientes elementos fundamentales:
@@ -71,7 +71,7 @@
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center
-              p.text-center.mb-0 De acuerdo a la evaluación y seguimiento al plan, se deben tomar medidas de ajuste, que permitan dar alternativas de solución a los fallas o inconvenientes presentados en el proceso.
+              p.text-center.mb-0 Considerar aspectos adicionales como el recordatorio de fechas importantes, felicitaciones por cumpleaños, y la invitación a eventos, que pueden ser determinantes para la fidelización del cliente.
 
     //.row.justify-content-center.mb-5
       .col-lg-4.col-md-10.col-sm-10.mb-xl-0.mb-4(data-aos="fade-right")
@@ -222,7 +222,7 @@
 
       .row.justify-content-center.align-items-center(data-aos="fade-right")
         .col-lg-6.order-lg-1.order-2(data-aos="fade-right")
-          h3 Optimización del call center
+          h3 Optimización del #[i call center]
           p.mb-0 Asegurar que el centro de atención al cliente sea eficiente y que el consumidor se sienta importante y escuchado.
 
         .col-lg-6.col-10.order-lg-2.order-lg-1.mb-lg-0.mb-4(data-aos="fade-left")

@@ -172,7 +172,7 @@
             img(src='@/assets/curso/temas/tema3/img-06.svg', alt='Imagen decorativa')
 
     h3.mb-5
-      span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[i(style="color: #FFFF !important").fas.fa-tag] Estrategias transgeneracionales
+      span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[i(style="color: #FFFF !important").fas.fa-tag] Nivel de ingreso
 
     p.mb-5 El nivel de ingreso es uno de los factores más influyentes en el comportamiento del consumidor. Las decisiones de compra dependen en gran medida de los ingresos disponibles, y el acceso a crédito puede ser una opción viable o no, dependiendo de la capacidad financiera del consumidor para asumir dicha deuda. Es importante tener en cuenta no solo los ingresos, sino también los ahorros y los intereses personales del cliente al diseñar estrategias de venta que se alineen con sus capacidades y preferencias financieras.
 

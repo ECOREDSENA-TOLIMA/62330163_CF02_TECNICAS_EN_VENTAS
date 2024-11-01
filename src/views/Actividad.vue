@@ -32,9 +32,9 @@ export default {
             { id: 'b', texto: 'Verdadero', esCorrecta: true },
           ],
           mensaje_correcto:
-            '¡Correcto! El modelo AIDA se estructura en estas cuatro etapas clave para guiar al cliente a través del proceso de compra.',
+            'El modelo AIDA se estructura en estas cuatro etapas clave para guiar al cliente a través del proceso de compra.',
           mensaje_incorrecto:
-            'Incorrecto. El modelo AIDA se compone de las etapas: Atención, Interés, Deseo y Acción.',
+            'El modelo AIDA se compone de las etapas: Atención, Interés, Deseo y Acción.',
         },
         {
           id: 2,
@@ -47,9 +47,9 @@ export default {
             { id: 'b', texto: 'Verdadero', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Exacto! La técnica SPIN se basa en hacer preguntas estratégicas para identificar las necesidades del cliente antes de presentar los beneficios del producto.',
+            'La técnica SPIN se basa en hacer preguntas estratégicas para identificar las necesidades del cliente antes de presentar los beneficios del producto.',
           mensaje_incorrecto:
-            'Incorrecto. La técnica SPIN se centra en investigar y comprender las necesidades del cliente antes de ofrecer soluciones.',
+            'La técnica SPIN se centra en investigar y comprender las necesidades del cliente antes de ofrecer soluciones.',
         },
         {
           id: 3,
@@ -62,9 +62,9 @@ export default {
             { id: 'b', texto: 'Verdadero', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Exacto! El CRM es útil para empresas de cualquier tamaño, ya que se enfoca en gestionar las relaciones con los clientes de manera eficiente.',
+            'El CRM es útil para empresas de cualquier tamaño, ya que se enfoca en gestionar las relaciones con los clientes de manera eficiente.',
           mensaje_incorrecto:
-            'Incorrecto. El CRM es útil para empresas de cualquier tamaño, ya que mejora la gestión de las relaciones con los clientes, personalizando las interacciones y fomentando la fidelización.',
+            'El CRM es útil para empresas de cualquier tamaño, ya que mejora la gestión de las relaciones con los clientes, personalizando las interacciones y fomentando la fidelización.',
         },
         {
           id: 4,
@@ -77,9 +77,9 @@ export default {
             { id: 'b', texto: 'Verdadero', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! El cierre de una venta implica un compromiso de acompañamiento continuo con el cliente, lo que incluye un buen servicio posventa.',
+            'El cierre de una venta implica un compromiso de acompañamiento continuo con el cliente, lo que incluye un buen servicio posventa.',
           mensaje_incorrecto:
-            'Incorrecto. El cierre de una venta también incluye el acompañamiento posventa para asegurar la satisfacción del cliente y fomentar la fidelidad.',
+            'El cierre de una venta también incluye el acompañamiento posventa para asegurar la satisfacción del cliente y fomentar la fidelidad.',
         },
         {
           id: 5,
@@ -92,9 +92,9 @@ export default {
             { id: 'b', texto: 'Verdadero', esCorrecta: true },
           ],
           mensaje_correcto:
-            '¡Correcto! La garantía legal garantiza la reparación o el reemplazo del producto sin necesidad de indemnizar al cliente.',
+            'La garantía legal garantiza la reparación o el reemplazo del producto sin necesidad de indemnizar al cliente.',
           mensaje_incorrecto:
-            'Incorrecto. La garantía legal obliga al proveedor a reparar o reemplazar el producto defectuoso, pero no incluye indemnización al cliente.',
+            'La garantía legal obliga al proveedor a reparar o reemplazar el producto defectuoso, pero no incluye indemnización al cliente.',
         },
         {
           id: 6,
@@ -107,9 +107,9 @@ export default {
             { id: 'b', texto: 'Verdadero', esCorrecta: false },
           ],
           mensaje_correcto:
-            '¡Correcto! Un buen servicio posventa es crucial para fortalecer la relación con el cliente y fomentar su lealtad hacia la marca.',
+            'Un buen servicio posventa es crucial para fortalecer la relación con el cliente y fomentar su lealtad hacia la marca.',
           mensaje_incorrecto:
-            'Incorrecto. El servicio posventa es esencial para mantener la lealtad del cliente, ya que asegura su satisfacción y su experiencia positiva con la marca.',
+            'El servicio posventa es esencial para mantener la lealtad del cliente, ya que asegura su satisfacción y su experiencia positiva con la marca.',
         },
       ],
       mensaje_final_aprobado:

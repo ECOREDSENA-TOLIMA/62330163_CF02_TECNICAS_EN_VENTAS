@@ -28,10 +28,10 @@
             figure
               img(src='@/assets/curso/temas/tema1/img-02-01.svg', alt='Texto que describa la imagen')
 
-          div(x="15%" y="61%" tooltip="")
+          div(x="15%" y="61%" tooltip="Ver más")
             p En cualquier estrategia de ventas, captar la atención del cliente es crucial, especialmente en los primeros segundos de interacción (no más de 5 segundos). La primera impresión, ya sea visual o auditiva, puede determinar el éxito de la venta.
             p #[b Estrategias para captar la atención:]
-            p.mb-0 #[b Halagos:]  reconocer al cliente como un valioso miembro del mercado, por ejemplo: Usted ha sido seleccionado para esta oferta porque es uno de nuestros mejores clientes.
+            p.mb-0 #[b Halagos:]  reconocer al cliente como un valioso miembro del mercado, por ejemplo: usted ha sido seleccionado para esta oferta porque es uno de nuestros mejores clientes.
             p.mb-0 #[b Agradecimientos:] comenzar la conversación con un agradecimiento sincero, como: “Gracias por atender mi llamada.”
             p.mb-0 #[b Generar curiosidad:] formular preguntas que despierten el interés, como: “¿Conoce todos los beneficios de su tarjeta de crédito?”
             p.mb-0 #[b Impresionar:] presentar al vendedor como un aliado para resolver problemas, lo que puede aumentar la confianza del cliente.
@@ -54,7 +54,7 @@
             p #[b Estrategias para inducir la acción:] 
             p.mb-0 #[b Evitar presión:] es fundamental no presionar al cliente, ya que esto puede generar rechazo y obstaculizar el cierre.
             p.mb-0 #[b Justificar la compra:] explicar claramente cómo el producto satisface la necesidad específica del cliente.
-            p.mb-0 #[b Solicitar la compra:] incitar al cliente con frases motivadoras, como: “Su salud es lo más importante y debe empezar a pensar en usted. 
+            p.mb-0 #[b Solicitar la compra:] incitar al cliente con frases motivadoras, como: “Su salud es lo más importante y debe empezar a pensar en usted.”
 
         .row.mt-5.mb-3.justify-content-center
           .col-10.col-md-10.col-lg-12.movil(data-aos="fade-right")
@@ -107,13 +107,13 @@
           img(src='@/assets/curso/temas/tema1/img-04.svg', alt='Imagen decorativa')
       .col-lg-7.col-12.mb-3
         LineaTiempoD.color-secundario.linea-tiempo-edit.mb-4(data-aos="zoom-in-down")
-          p.text-small(numero="1" titulo="Atención") El vendedor saluda al cliente con una sonrisa y dice: <br><br> “¡Bienvenido! ¡Es un placer tenerle aquí! Tenemos una promoción especial en nuestros pasteles gourmet hoy. ¿Ha visto nuestros nuevos sabores exclusivos?” <br><br> #[i (Esta introducción capta la atención del cliente al destacar algo especial y relevante para su visita.)]
+          p.text-small(numero="1" titulo="Atención") El vendedor saluda al cliente con una sonrisa y dice: <br><br> “¡Bienvenido! ¡Es un placer tenerle aquí! Tenemos una promoción especial en nuestros pasteles #[i gourmet] hoy. ¿Ha visto nuestros nuevos sabores exclusivos?” <br><br> #[i (Esta introducción capta la atención del cliente al destacar algo especial y relevante para su visita).]
           
-          p.text-small(numero="2" titulo="Interés") El vendedor continúa: <br><br> “Nuestros pasteles están hechos con ingredientes frescos y naturales. El pastel de chocolate con avellanas que ve aquí fue elegido como el mejor del año por los críticos locales. Además, ofrecemos una opción sin gluten que es igual de deliciosa.” <br><br> #[i (Al mencionar los beneficios únicos, el vendedor despierta el interés del cliente en productos específicos.)]
+          p.text-small(numero="2" titulo="Interés") El vendedor continúa: <br><br> “Nuestros pasteles están hechos con ingredientes frescos y naturales. El pastel de chocolate con avellanas que ve aquí fue elegido como el mejor del año por los críticos locales. Además, ofrecemos una opción sin gluten que es igual de deliciosa.” <br><br> #[i (Al mencionar los beneficios únicos, el vendedor despierta el interés del cliente en productos específicos).]
           
-          p.text-small(numero="3" titulo="Deseo") El vendedor observa que el cliente se interesa por el pastel de chocolate y añade: <br><br> “Este pastel no solo tiene un sabor increíble, sino que también viene decorado de forma personalizada sin costo adicional. Además, si lo compra hoy, le ofrecemos un descuento del 10% en su próxima compra.” <br><br> #[i (El vendedor crea deseo al resaltar el valor añadido y un incentivo adicional para futuras compras.)]
+          p.text-small(numero="3" titulo="Deseo") El vendedor observa que el cliente se interesa por el pastel de chocolate y añade: <br><br> “Este pastel no solo tiene un sabor increíble, sino que también viene decorado de forma personalizada sin costo adicional. Además, si lo compra hoy, le ofrecemos un descuento del 10 % en su próxima compra.” <br><br> #[i (El vendedor crea deseo al resaltar el valor añadido y un incentivo adicional para futuras compras).]
           
-          p.text-small(numero="4" titulo="Acción") Finalmente, el vendedor pregunta: <br><br> “¿Le gustaría llevarse este pastel para su celebración? Estoy seguro de que impresionará a todos sus invitados.” <br><br> #[i (El vendedor incita al cliente a tomar la acción de compra, cerrando la venta de manera natural.)]
+          p.text-small(numero="4" titulo="Acción") Finalmente, el vendedor pregunta: <br><br> “¿Le gustaría llevarse este pastel para su celebración? Estoy seguro de que impresionará a todos sus invitados.” <br><br> #[i (El vendedor incita al cliente a tomar la acción de compra, cerrando la venta de manera natural).]
 
     Separador
 
@@ -206,25 +206,25 @@
       //- estas clases tambien tienen un modificador --borde
       .tarjeta.color-acento-botones--borde.p-4(titulo="1. Situación")
         p El vendedor pregunta: “¿Podría contarme un poco sobre los productos que está utilizando actualmente para su rutina de maquillaje y cuidado de la piel?”
-        p #[i (El vendedor comienza a recopilar información sobre la situación actual del cliente.)]
+        p #[i (El vendedor comienza a recopilar información sobre la situación actual del cliente).]
       
       .tarjeta.color-acento-botones--borde.p-4(titulo="2. Problema")
         p Después de escuchar al cliente, el vendedor indaga más: “¿Ha notado algún problema con la duración de su maquillaje a lo largo del día o quizás alguna incomodidad en la piel después de aplicarlo?”
-        p #[i (El vendedor identifica problemas potenciales que el cliente pueda estar enfrentando con sus productos actuales.)]
+        p #[i (El vendedor identifica problemas potenciales que el cliente pueda estar enfrentando con sus productos actuales).]
       //- .tarjeta debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- estas clases tambien tienen un modificador --borde
       
       .tarjeta.color-acento-botones--borde.p-4(titulo="3. Implicación")
         p El vendedor continúa: “Si su maquillaje no está durando todo el día, podría ser debido a la falta de un buen primer o base adecuada. Esto podría hacer que su maquillaje no solo dure menos, sino que también se vea irregular. ¿Cómo afectaría esto a su rutina diaria, especialmente si tiene eventos importantes?”
-        p #[i (El vendedor resalta la importancia de solucionar los problemas identificados, haciendo que el cliente sienta la necesidad de cambiar.)]
+        p #[i (El vendedor resalta la importancia de solucionar los problemas identificados, haciendo que el cliente sienta la necesidad de cambiar).]
       //- .tarjeta debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- estas clases tambien tienen un modificador --borde
 
       .tarjeta.color-acento-botones--borde.p-4(titulo="4. Necesidad de beneficio")
         p Finalmente, el vendedor sugiere: “Nuestro primer de larga duración, combinado con una base ligera y un fijador, no solo mantendrá su maquillaje impecable durante todo el día, sino que también protegerá su piel. ¿Le gustaría probar estos productos hoy?”
-        p #[i (El vendedor ofrece una solución clara y directa que aborda las necesidades del cliente, lo que facilita el cierre de la venta.)]
+        p #[i (El vendedor ofrece una solución clara y directa que aborda las necesidades del cliente, lo que facilita el cierre de la venta).]
       //- .tarjeta debe ir acompañado de una de una de estas clases => 
       //- .color-primario, .color-secundario, .color-acento-contenido, .color-acento-botones
       //- estas clases tambien tienen un modificador --borde
@@ -242,7 +242,7 @@
           .col-8
             img(src='@/assets/curso/temas/tema1/icono-01.svg' alt='AvatarTop')
         h3.text-center Cierre puerco espín
-        p Responder a la pregunta del cliente con otra pregunta para mantener el control de la conversación y avanzar en el proceso de venta. Ejemplo: Si el cliente pregunta por otro modelo de televisor, el vendedor podría responder: “¿Le gustaría uno con conexión a Internet?”
+        p Responder a la pregunta del cliente con otra pregunta para mantener el control de la conversación y avanzar en el proceso de venta. Ejemplo: si el cliente pregunta por otro modelo de televisor, el vendedor podría responder: “¿Le gustaría uno con conexión a Internet?”
 
       .tarjeta.color-primario.p-4.col-ipad
         .row.justify-content-center.mb-3
@@ -524,7 +524,7 @@
               p.mb-0 #[b(style="color: #12263F !important") Relajación y respiración:] ayuda a calmar la mente y el cuerpo, mejorando la concentración.
               p.mb-0 #[b(style="color: #12263F !important") Expresión corporal:] permite liberar tensiones a través de movimientos físicos.
               p.mb-0 #[b(style="color: #12263F !important") Estiramiento:] alivia la rigidez muscular y mejora la flexibilidad, contribuyendo a la relajación.
-              p.mb-0 #[b(style="color: #12263F !important") Aromaterapia:] utiliza aromas específicos para inducir estados de relajación y bienestar..
+              p.mb-0 #[b(style="color: #12263F !important") Aromaterapia:] utiliza aromas específicos para inducir estados de relajación y bienestar.
               
             .col-lg-6.col-10.order-lg-2.order-1.mb-lg-0.mb-4
               figure
@@ -716,7 +716,7 @@
             
             li(data-aos="fade-down")
               i.fas.fa-check(style="color: #AC0606")
-              p.mb-0 #[b Identificación de oportunidades de mejora:] la través del servicio posventa, la empresa puede detectar deficiencias y corregirlas.
+              p.mb-0 #[b Identificación de oportunidades de mejora:] a través del servicio posventa, la empresa puede detectar deficiencias y corregirlas.
             
             li(data-aos="fade-down")
               i.fas.fa-check(style="color: #AC0606")
@@ -809,7 +809,7 @@
           
           p.text-small(numero="7" titulo="Oportunidad de respuesta") Resolver las inconformidades del cliente en el menor tiempo posible para asegurar su satisfacción. 
 
-    p.mb-5 Para mantener un contexto se presenta el siguiente ejemplo de garantía y servicio posventa para una empresa de juguetes infantiles elaborados con materiales reciclables, preste atención al detalle del ejemplo
+    p.mb-5 Para mantener un contexto se presenta el siguiente ejemplo de garantía y servicio posventa para una empresa de juguetes infantiles elaborados con materiales reciclables, preste atención al detalle del ejemplo:
 
     h3.mb-5
       span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[i(style="color: #FFFF !important").fas.fa-tag] Escenario
@@ -835,7 +835,7 @@
             h4 #[b(style="color: #670303 !important") Servicio posventa]
         p #[b Instalación y montaje:] para juguetes que requieren ensamblaje, EcoJuguetes ofrece un servicio de instalación en el hogar. Un técnico de la empresa puede visitar la casa del cliente para montar el juguete, asegurando que esté correctamente armado y funcionando. Este servicio es gratuito para los clientes que adquirieron la #[b garantía suplementaria.]
         p #[b Mantenimiento y reparaciones:] EcoJuguetes ofrece un servicio de mantenimiento periódico, especialmente para sus juguetes más complejos como bicicletas o juguetes eléctricos. Este mantenimiento incluye la limpieza, ajuste y, si es necesario, el reemplazo de piezas. Los clientes con la garantía suplementaria reciben estos servicios sin costo adicional durante los primeros dos años.
-        p #[b Entrenamiento en el uso seguro del producto:] para ciertos juguetes, como aquellos que requieren ensamblaje o que tienen múltiples funciones, EcoJuguetes ofrece sesiones de entrenamiento en línea y videos tutoriales  
+        p #[b Entrenamiento en el uso seguro del producto:] para ciertos juguetes, como aquellos que requieren ensamblaje o que tienen múltiples funciones, EcoJuguetes ofrece sesiones de entrenamiento en línea y videos tutoriales.
 
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-left")
         figure
@@ -849,7 +849,7 @@
         .col-lg-7.col-12.mb-3(data-aos="fade-left")
           p #[b Manejo de quejas y retroalimentación:] EcoJuguetes tiene un equipo dedicado a manejar quejas y recibir retroalimentación. Los clientes pueden enviar sus comentarios a través de un formulario en línea o mediante una línea telefónica gratuita. Cada queja se maneja con la mayor seriedad, y la empresa se compromete a resolver cualquier problema en un plazo de 48 horas. Esta información también se utiliza para mejorar futuros diseños de productos y procesos internos.
           p #[b Valor agregado:] EcoJuguetes ofrece un servicio adicional de reciclaje de juguetes. Cuando un juguete llega al final de su vida útil, los clientes pueden devolverlo a la empresa, que se encargará de reciclarlo adecuadamente. A cambio, el cliente recibe un descuento en su próxima compra, fomentando la fidelidad y el compromiso con el medio ambiente.
-          p #[b Seguimiento postventa:] después de cada compra, EcoJuguetes realiza un seguimiento con el cliente para asegurarse de que el juguete haya cumplido con sus expectativas. Esto incluye una encuesta de satisfacción y una invitación a unirse a la comunidad en línea de EcoJuguetes, donde los clientes pueden compartir sus experiencias y recibir consejos sobre el cuidado y uso de los productos.
+          p #[b Seguimiento posventa:] después de cada compra, EcoJuguetes realiza un seguimiento con el cliente para asegurarse de que el juguete haya cumplido con sus expectativas. Esto incluye una encuesta de satisfacción y una invitación a unirse a la comunidad en línea de EcoJuguetes, donde los clientes pueden compartir sus experiencias y recibir consejos sobre el cuidado y uso de los productos.
           p #[b Relación y fidelización:] EcoJuguetes se esfuerza por construir una relación sólida con cada cliente, ofreciendo promociones exclusivas y recompensas a los compradores frecuentes. Además, organizan eventos para sus clientes, como talleres de reciclaje y actividades educativas para niños, lo que fortalece la relación con la marca. 
 
         

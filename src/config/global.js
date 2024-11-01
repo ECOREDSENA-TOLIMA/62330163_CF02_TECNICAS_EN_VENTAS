@@ -145,16 +145,16 @@ export default {
   },
   complementario: [
     {
-      tema: '1.1.	Definición del perfil del cliente',
+      tema: '1.1 Técnica de cierre de ventas AIDA',
       referencia:
-        'TEDx Talks (2022). Entendiendo al cliente. User Experience y Psicología | Blanca B. | TEDxUC3MLive. https://www.youtube.com/watch?v=WYbh60FijSM ',
-      tipo: 'TVideo en línea',
+        'TEDx Talks (2022). Entendiendo al cliente. User Experience y Psicología | Blanca B. | TEDxUC3MLive.',
+      tipo: 'Video en línea',
       link: 'https://www.youtube.com/watch?v=WYbh60FijSM',
     },
     {
-      tema: '3.2. Personalización de la oferta comercial',
+      tema: '3. Comportamiento del consumidor',
       referencia:
-        'TEDx Talks (2018). Neuromarketing: somos lo que nos emociona | David Juárez Varón | TEDxAlcoi . https://www.youtube.com/watch?v=tIAQtN8xer0 ',
+        'TEDx Talks (2018). Neuromarketing: somos lo que nos emociona | David Juárez Varón | TEDxAlcoi.',
       tipo: 'Video en línea',
       link: 'https://www.youtube.com/watch?v=tIAQtN8xer0',
     },
@@ -198,7 +198,7 @@ export default {
     {
       termino: 'Personalización',
       significado:
-        'adaptación de productos, servicios y campañas de marketing para satisfacer las necesidades y preferencias individuales de los clientes, mejorando la experiencia del cliente y aumentando la lealtad.',
+        'adaptación de productos, servicios y campañas de <em>marketing</em> para satisfacer las necesidades y preferencias individuales de los clientes, mejorando la experiencia del cliente y aumentando la lealtad.',
     },
     {
       termino: 'Protección de datos personales',
@@ -237,13 +237,14 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del equipo',
+          cargo: 'Líder del Ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
-          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+          centro:
+            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
         },
       ],
     },
@@ -253,20 +254,17 @@ export default {
         {
           nombre: 'Ingrid Criollo García',
           cargo: 'Experta temática',
-          centro:
-            'Regional Distrito Capital. Centro de Gestión de Mercados, Logística y Tecnologías de la Información.',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Rosa Elvia Quintero Guasca',
           cargo: 'Asesora pedagógica',
-          centro:
-            'Regional Santander. Centro Industrial de Mantenimiento Integral- CIMI.',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Luis Orlando Beltrán Vargas',
           cargo: 'Asesor pedagógico',
-          centro:
-            'Regional Santander. Centro Industrial de Mantenimiento Integral- CIMI.',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Luis Fernando Botero Mendoza',
@@ -280,17 +278,17 @@ export default {
       autores: [
         {
           nombre: 'Oscar Ivan Uribe Ortiz',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'José Jaime Luis Tang Pinzón',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador de contenidos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Francisco José Vásquez Suárez',
-          cargo: 'Desarrollador full stack',
+          cargo: 'Desarrollador <em>full stack</em>',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
@@ -309,13 +307,13 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: 'Jorge Eduardo Rueda Peña',
+          nombre: 'Norma Constanza Morales Cruz',
           cargo: 'Evaluador de contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'Javier Mauricio Oviedo',
-          cargo: 'Validador y vinculador de recursos educativos digitales',
+          cargo: 'Validación de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
