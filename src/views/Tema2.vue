@@ -51,7 +51,7 @@
 
       .col-xl-3.col-sm-6.col-8.mb-4
         .tarjeta.tarjeta-foto-hover
-          .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/tema2/img-04.png' alt="Muestra semillas mejoradas")
+          .tarjeta-foto-hover__img: img(src='@/assets/curso/temas/tema2/img-04.jpeg' alt="Muestra semillas mejoradas")
           .tarjeta-foto-hover__titulo.d-flex.justify-content-center.align-items-center.p-3
           .tarjeta-foto-hover__tarjeta.bg-degrade.d-flex.align-items-center.justify-content-center
             .p-4.text-center

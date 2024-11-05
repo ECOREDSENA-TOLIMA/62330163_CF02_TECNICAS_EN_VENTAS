@@ -237,14 +237,13 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Líder del Ecosistema',
+          cargo: 'Líder del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Liliana Victoria Morales Gualdrón',
           cargo: 'Responsable de línea de producción',
-          centro:
-            'Centro Industrial del Diseño y la Manufactura - Regional Santander',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
     },
@@ -252,18 +251,23 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: 'Ingrid Criollo García',
+          nombre: 'Lisseth Tatiana Molano Camacho',
           cargo: 'Experta temática',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Rosa Elvia Quintero Guasca',
-          cargo: 'Asesora pedagógica',
+          nombre: 'Jorge Bustos Gómez',
+          cargo: 'Asesor pedagógico',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
-          nombre: 'Luis Orlando Beltrán Vargas',
-          cargo: 'Asesor pedagógico',
+          nombre: 'Claudia Marcela Gamboa Durán',
+          cargo: 'Guionista',
+          centro: 'Centro de Comercio y Servicios - Regional Tolima',
+        },
+        {
+          nombre: 'Javier Mauricio Oviedo',
+          cargo: 'Guionista',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
@@ -278,12 +282,12 @@ export default {
       autores: [
         {
           nombre: 'Oscar Ivan Uribe Ortiz',
-          cargo: 'Diseñador de contenidos digitales',
+          cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
           nombre: 'José Jaime Luis Tang Pinzón',
-          cargo: 'Diseñador de contenidos digitales',
+          cargo: 'Diseñador web',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
@@ -308,7 +312,7 @@ export default {
       autores: [
         {
           nombre: 'Norma Constanza Morales Cruz',
-          cargo: 'Evaluador de contenidos inclusivos y accesibles',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
         {
