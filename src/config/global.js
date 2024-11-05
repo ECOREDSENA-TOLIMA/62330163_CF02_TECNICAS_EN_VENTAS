@@ -317,7 +317,7 @@ export default {
         },
         {
           nombre: 'Javier Mauricio Oviedo',
-          cargo: 'Validación de recursos educativos digitales',
+          cargo: 'Validador y vinculador de recursos educativos digitales',
           centro: 'Centro de Comercio y Servicios - Regional Tolima',
         },
       ],
