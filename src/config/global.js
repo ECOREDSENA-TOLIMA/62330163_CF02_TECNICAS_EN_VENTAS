@@ -145,7 +145,7 @@ export default {
   },
   complementario: [
     {
-      tema: '1.1 Técnica de cierre de ventas AIDA',
+      tema: '1.1 Técnicas de cierre de ventas AIDA',
       referencia:
         'TEDx Talks (2022). Entendiendo al cliente. User Experience y Psicología | Blanca B. | TEDxUC3MLive.',
       tipo: 'Video en línea',

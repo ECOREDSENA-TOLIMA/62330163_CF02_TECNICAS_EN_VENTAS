@@ -54,7 +54,7 @@
             p #[b Estrategias para inducir la acción:] 
             p.mb-0 #[b Evitar presión:] es fundamental no presionar al cliente, ya que esto puede generar rechazo y obstaculizar el cierre.
             p.mb-0 #[b Justificar la compra:] explicar claramente cómo el producto satisface la necesidad específica del cliente.
-            p.mb-0 #[b Solicitar la compra:] incitar al cliente con frases motivadoras, como: “Su salud es lo más importante y debe empezar a pensar en usted.”
+            p.mb-0 #[b Solicitar la compra:] incitar al cliente con frases motivadoras, como: “Su salud es lo más importante y debe empezar a pensar en usted”.
 
         .row.mt-5.mb-3.justify-content-center
           .col-10.col-md-10.col-lg-12.movil(data-aos="fade-right")
